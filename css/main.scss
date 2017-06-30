@@ -1551,20 +1551,20 @@ $baseurl: '{{ site.baseurl }}/images';
 			width: 16em;
 			z-index: 1;
 
-			&:after {
-				background-image: url('images/arrow.svg');
-				background-position: center;
-				background-repeat: no-repeat;
-				background-size: contain;
-				bottom: 4em;
-				content: '';
-				display: block;
-				height: 1.5em;
-				left: 50%;
-				margin: 0 0 0 -0.75em;
-				position: absolute;
-				width: 1.5em;
-			}
+			// &:after {
+			// 	background-image: url('images/arrow.svg');
+			// 	background-position: center;
+			// 	background-repeat: no-repeat;
+			// 	background-size: contain;
+			// 	bottom: 4em;
+			// 	content: '';
+			// 	display: block;
+			// 	height: 1.5em;
+			// 	left: 50%;
+			// 	margin: 0 0 0 -0.75em;
+			// 	position: absolute;
+			// 	width: 1.5em;
+			// }
 		}
 
 		&:after {
