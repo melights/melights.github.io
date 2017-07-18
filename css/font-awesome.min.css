@@ -7,8 +7,9 @@
     height:50px;
     display:inline-block;
     position:absolute;
-    bottom:0px;
-    left:48%;
+    bottom:100px;
+    left:50%;
+    margin-left: -25px;
     background:url(../images/arraw.png)
 no-repeat;
  _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=../images/arraw.png,enabled=true,sizingMethod=\"crop\");
