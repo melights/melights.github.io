@@ -4,7 +4,7 @@
 			
 			w = canvasBody.width = window.innerWidth, //Full width
 			h = canvasBody.height = window.innerHeight, //Full height
-			
+			baseline=(w+h)/3042,
 			tick = 0, //Tick in time
 			
 			//YOU CAN CHANGE OPTIONS HERE. DO NOT REALLY MESS WITH STUFF BELOW THAT
@@ -12,13 +12,13 @@
 				backgroundColor: "#222",
 				particleColor: "rgb(200,200,200)",
 				particleAmount: 40,
-				defaultSpeed: 0.2,
-				addedSpeed: 0.5,
+				defaultSpeed: 0.2*baseline,
+				addedSpeed: 0.5*baseline,
 				
-				defaultRadius: 2,
-				addedRadius: 3,
+				defaultRadius: 2*baseline,
+				addedRadius: 3*baseline,
 				
-				communicationRadius: 250, //The radius for the line
+				communicationRadius: 250*baseline, //The radius for the line
 			},
 			particles = [],
 			
