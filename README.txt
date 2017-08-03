@@ -1,16 +1,9 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A Jekyll port of the Spectral theme by HTML5 UP.
-Find the original non-jekyll theme at: http://html5up.net/
-Note: @arkadianriver is in no way associated with @n33co
-      other than I really like his _style_! get it?
-Below is @n33co's readme from the original pure HTML theme
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+My Personal home page
 
-Spectral by HTML5 UP
+Based on Spectral by HTML5 UP
 html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
+Free for personal and commercial use under the CCA 3.0 license
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements. So, pretty much what you were expecting
