@@ -4,12 +4,12 @@
 # Site settings
 title: LONG CHEN
 description: |
-  PhD Candidate at Bournemouth University, UK  
-  Augmented Reality and Mixed Reality    
+  Research Engineer at Lyft Level 5, UK  
+  Self-Driving and Augmented Reality    
   Computer Vision  
   
 owner: Long Chen # or company name
-first_published: 2017 # if migrating another site, the year of your first publish
+first_published: 2020 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://longchen.uk" # the base hostname & protocol for your site
