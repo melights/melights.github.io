@@ -10,8 +10,8 @@
 			//YOU CAN CHANGE OPTIONS HERE. DO NOT REALLY MESS WITH STUFF BELOW THAT
 			opts = { //Options, you can change those
 				backgroundColor: "#222",
-				particleColor: "rgb(200,200,200)",
-				particleAmount: 40,
+				particleColor: "rgb(100,100,100)",
+				particleAmount: 20,
 				defaultSpeed: 0.2*baseline,
 				addedSpeed: 0.5*baseline,
 				
