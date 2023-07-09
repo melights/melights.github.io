@@ -462,10 +462,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 	.round-image {
-		// border-radius: 50%;
 		width: 300px;
 		height: 300px;
+		-webkit-mask-image: linear-gradient(to bottom, black 90%, transparent);
+		mask-image: linear-gradient(to bottom, black 90%, transparent);
 	}
+	
 /* Icon */
 
 	.icon {
@@ -1270,13 +1272,14 @@ $baseurl: '{{ site.baseurl }}/images';
 			background-color: #2e3842;
 		}
 		&.styleme {
-			@include vendor('background-image', 'url("#{$baseurl}/banner1.jpg")');
+			@include vendor('background-image', 'url("#{$baseurl}/banner1_half.jpg")');
 			background-attachment: fixed;
-			background-position: center center;
-			background-repeat: no-repeat;
-			background-size: cover;
+			background-position: bottom;
+			background-repeat: no-repeat; /* repeat the background vertically */
+			background-size: contain; /* auto width and 100% height */
 			text-align: center;
-		}
+		  }
+		  
 		@include breakpoint(medium) {
 			@include padding(4em, 3em);
 		}
