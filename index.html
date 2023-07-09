@@ -25,12 +25,25 @@ layout: landing
 								me <font face="Georgia, serif" size="6" color="grey" style="italic">&#8221;</font></h2>
 								<p>I am a highly driven individual with over 10 years of research experience, deeply invested in the research, development, and deployment of cutting-edge Computer Vision (CV) and Machine Learning (ML) technologies. My work is centered around creating future disruptive applications, with key areas of focus including Surgical Robotics, Mixed Reality, and Autonomous Vehicles.</p>
 							</header>
-							<ul class="icons major">
+							<!-- <ul class="icons major">
 								<li><img src="/images/ar1.png" height="50"/></li>
 								<li><img src="/images/ar2.png" height="50"/></li>
 								<li><img src="/images/ar3.png" height="50"/></li>
 								<li><img src="/images/ar4.png" height="50"/></li>
-							</ul>
+							</ul> -->
+							<ul class="icons">
+								{% for socloc in site.social %}
+								{% if socloc[1] %}
+								{% if socloc[0] == 'email' %}
+								<li><a target="_blank" href="mailto:{{ socloc[1] }}" class="icon major fa-envelope-o"><span class="label">E-mail</span></a></li>
+								{% elsif socloc[0] == 'scholar' %}
+								<li><a target="_blank" href="{{ socloc[1] }}" class="ai major ai-google-scholar no-border"></a></li>
+								{% else %}
+								<li><a target="_blank" href="{{ socloc[1] }}" class="icon major fa-{{ socloc[0] }}"><span class="label">{{ socloc[0] }}</span></a></li>
+								{% endif %}
+								{% endif %}
+								{% endfor %}
+							</ul>							
 						</div>
 					</section>
 
