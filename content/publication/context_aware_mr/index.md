@@ -1,23 +1,26 @@
 ---
-title: 'Semantic Augmented Reality Environment with Material-Aware Physical Interactions'
+title: 'Context-Aware Mixed Reality: A Learning-Based Framework for Semantic-Level Interaction'
 authors:
   - admin
-  - Karl Francis
   - Wen Tang
-date: '2017-01-01'
-doi: ''
-publishDate: '2017-01-01'
-publication_types: ['conference']
-publication: In *The 16th IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*
-abstract: 'In Augmented Reality (AR) environment, realistic interactions between the virtual and real objects play a crucial role in user experience. Much of recent advances in AR has been largely focused on developing geometry-aware environment, but little has been done in dealing with interactions at the semantic level. High-level scene understanding and semantic descriptions in AR would allow effective design of complex applications and enhanced user experience. In this paper, we present a novel approach and a prototype system that enables the deeper understanding of semantic properties of the real world environment, so that realistic physical interactions between the real and the virtual objects can be generated. A material-aware AR environment has been created based on the deep material learning using a fully convolutional network (FCN). The state-of-the-art dense Simultaneous Localisation and Mapping (SLAM) has been used for the semantic mapping. Together with efficient accelerated 3D ray casting, natural and realistic physical interactions are generated for interactive AR games. Our approach has significant impact on the future development of advanced AR systems and applications.'
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_video: ''
+  - Nigel W. John
+  - Tao Ruan Wan
+  - Jian Jun Zhang
+date: '2020-01-01'
+doi: '10.1111/cgf.13887'
+publishDate: '2020-01-01'
+publication_types: ['journal']
+publication: In *Computer Graphics Forum*
+volume: '39'
+number: '1'
+pages: '484-496'
+publisher: ''
+abstract: 'Mixed reality (MR) is a powerful interactive technology for new types of user experience. We present a semantic-based interactive MR framework that is beyond current geometry-based approaches, offering a step change in generating high-level context-aware interactions. Our key insight is that by building semantic understanding in MR, we can develop a system that not only greatly enhances user experience through object-specific behaviours, but also it paves the way for solving complex interaction design challenges. In this paper, our proposed framework generates semantic properties of the real-world environment through a dense scene reconstruction and deep image understanding scheme. We demonstrate our approach by developing a material-aware prototype system for context-aware physical interactions between the real and virtual objects. Quantitative and qualitative evaluation results show that the framework delivers accurate and consistent semantic information in an interactive MR environment, providing effective real-time semantic-level interactions.'
+url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13887"
 image:
   caption: ''
   focal_point: ''
   preview_only: false
+featured: true
 tags: [featured]
-
 ---
