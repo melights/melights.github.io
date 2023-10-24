@@ -52,14 +52,16 @@ sections:
   #     columns: '1'
   - block: markdown
     id: news
+    design:
+      columns: '1'
     content:
       title: Recent News
       text: |-
-          > - **2nd June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home)
-          > - **17th June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.self-driving-cars.org/tutorial)
-          > - **2nd &nbsp;Sep &nbsp;2021**: &nbsp;I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps
-          > - **30th June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
-          > - **25th June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://paperswithcode.com/paper/one-thousand-and-one-hours-self-driving)
+          > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home)
+          > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.self-driving-cars.org/tutorial)
+          > - **&nbsp;Feb &nbsp;2021**: I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps
+          > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
+          > - **June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://paperswithcode.com/paper/one-thousand-and-one-hours-self-driving)
 
   - block: experience
     content:
@@ -80,7 +82,7 @@ sections:
           location: London, UK
           date_start: '2021-08-01'
           date_end: ''
-          description: AV2.0 - building the next generation of self-driving cars with end-to-end machine learning, vision-language-action (VLA) models.
+          description: AV2.0 - building the next generation of self-driving cars with end-to-end Machine Learning, Vision-Language-Action (VLA) models.
         - title: Research Engineer
           company: Lyft Level 5
           company_url: ''
@@ -205,10 +207,11 @@ sections:
       view: card
   - block: collection
     content:
+      count: 100
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=c-sthYIAAAAJ).
         {{% /callout %}}
       filters:
         folders:
@@ -216,7 +219,7 @@ sections:
         tag: 'featured'
     design:
       columns: '2'
-      view: citation
+      view: compact
   # - block: collection
   #   id: talks
   #   content:

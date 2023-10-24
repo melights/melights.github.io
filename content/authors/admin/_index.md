@@ -38,13 +38,13 @@ education:
   courses:
     - course: PhD in Computer Vision / Machine Learning
       institution: Bournemouth University, UK
-      year: 2015
+      year: 2015 - 2018
     - course: MSc in Medical Image Computing
       institution: University College London (UCL), UK
-      year: 2013
+      year: 2013 - 2014
     - course: BSc in Biomedical Engineering
-      institution: Dalian University of Technology (DUT)
-      year: 2009
+      institution: Dalian University of Technology (DUT), China
+      year: 2009 - 2013
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
