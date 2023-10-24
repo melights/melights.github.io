@@ -31,6 +31,7 @@ bio: Reimagining Self-driving with Embodied AI
 interests:
   - Artificial Intelligence
   - Computer Vision
+  - Multi-modal Large Language Models (LLMs)
   - Robotics
 
 # Education to show in About widget
