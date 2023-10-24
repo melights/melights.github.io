@@ -51,6 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: markdown
+    id: news
     content:
       title: Recent News
       text: |-
@@ -74,7 +75,7 @@ sections:
       items:
         - title: Senior Applied Scientist
           company: Wayve
-          company_url: 'wayve.ai'
+          company_url: 'https://wayve.ai/'
           company_logo: wayve
           location: London, UK
           date_start: '2021-08-01'
@@ -192,7 +193,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Featured Publications
       filters:
