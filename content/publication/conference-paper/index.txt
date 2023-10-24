@@ -1,0 +1,236 @@
+---
+title: 'One Thousand and One Hours: Self-driving Motion Prediction Dataset'
+authors:
+  - John Houston
+  - Guido Zuidhof
+  - Luca Bergamini
+  - Yawei Ye
+  - admin
+  - Ashesh Jain
+  - Sammy Omari
+  - Vladimir Iglovikov
+  - Peter Ondruska
+date: '2021-11-16'
+doi: ''
+publishDate: '2021-01-01'
+publication_types: ['conference']
+publication: In *Proceedings of the 2020 Conference on Robot Learning*
+abstract: "Motivated by the impact of large-scale datasets on ML systems we present the largest self-driving dataset for motion prediction to date, containing over 1,000 hours of data. This was collected by a fleet of 20 autonomous vehicles along a fixed route in Palo Alto, California, over a four-month period. It consists of 170,000 scenes, where each scene is 25 seconds long and captures the perception output of the self-driving system, which encodes the precise positions and motions of nearby vehicles, cyclists, and pedestrians over time. On top of this, the dataset contains a high-definition semantic map with 15,242 labelled elements and a high-definition aerial view over the area. We show that using a dataset of this size dramatically improves performance for key self-driving problems. Combined with the provided software kit, this collection forms the largest and most detailed dataset to date for the development of self-driving machine learning tasks, such as motion forecasting, motion planning and simulation."
+url_pdf: 'https://proceedings.mlr.press/v155/houston21a/houston21a.pdf'
+url_code: ''
+url_dataset: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+---
+title: 'What data do we need for training an av motion planner?'
+authors:
+  - admin
+  - Lukas Platinsky
+  - Stefanie Speichert
+  - Błażej Osiński
+  - Oliver Scheel
+  - Yawei Ye
+  - Hugo Grimmett
+  - Luca Del Pero
+  - Peter Ondruska
+date: '2021-01-01'
+doi: ''
+publishDate: '2021-01-01'
+publication_types: ['conference']
+publication: In *2021 IEEE International Conference on Robotics and Automation (ICRA)*
+abstract: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+---
+title: 'Simnet: Learning reactive self-driving simulations from real-world observations'
+authors:
+  - Luca Bergamini
+  - Yawei Ye
+  - Oliver Scheel
+  - admin
+  - Chih Hu
+  - Luca Del Pero
+  - Błażej Osiński
+  - Hugo Grimmett
+  - Peter Ondruska
+date: '2021-01-01'
+doi: ''
+publishDate: '2021-01-01'
+publication_types: ['conference']
+publication: In *2021 IEEE International Conference on Robotics and Automation (ICRA)*
+abstract: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+---
+title: 'Context-Aware Mixed Reality: A Learning-Based Framework for Semantic-Level Interaction'
+authors:
+  - admin
+  - Wen Tang
+  - Nigel W John
+  - Tao Ruan Wan
+  - Jian J Zhang
+date: '2020-01-01'
+doi: ''
+publishDate: '2020-01-01'
+publication_types: ['conference']
+publication: In *Computer Graphics Forum*
+abstract: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+---
+title: 'Semantic Augmented Reality Environment with Material-Aware Physical Interactions'
+authors:
+  - admin
+  - Karl Francis
+  - Wen Tang
+date: '2017-01-01'
+doi: ''
+publishDate: '2017-01-01'
+publication_types: ['conference']
+publication: In *The 16th IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*
+abstract: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+---
+title: 'Recent Developments and Future Challenges in Medical Mixed Reality'
+authors:
+  - admin
+  - Thomas Day
+  - Wen Tang
+  - Nigel W John
+date: '2017-01-01'
+doi: ''
+publishDate: '2017-01-01'
+publication_types: ['conference']
+publication: In *The 16th IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*
+abstract: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+
+
+
+<!-- ---
+title: 'An example conference paper'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  - Robert Ford
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+date: '2013-07-01T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://youtube.com'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+--- -->
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

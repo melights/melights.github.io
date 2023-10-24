@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'wayve'
+    description: 'Long Chen - Senior Applied Scientist @ Wayve - I am a highly driven individual with over 10 years of research experience, deeply invested in the research, development, and deployment of cutting-edge Computer Vision (CV) and Machine Learning (ML) technologies. My work is centered around creating future disruptive applications, with key areas of focus including Surgical Robotics, Mixed Reality, and Autonomous Vehicles.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Long Chen. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -114,3 +114,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+power_ups:
+  hide_published_with: true
+i_am_a_sponsor: true
