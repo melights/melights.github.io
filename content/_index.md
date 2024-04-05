@@ -75,7 +75,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Applied Scientist
+        - title: Staff Scientist
           company: Wayve
           company_url: 'https://wayve.ai/'
           company_logo: wayve
