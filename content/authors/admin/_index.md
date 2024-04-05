@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Applied Scientist
+role: Staff Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
