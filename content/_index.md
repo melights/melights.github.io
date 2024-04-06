@@ -58,7 +58,7 @@ sections:
       title: Recent News
       text: |-
           > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home)
-          > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.self-driving-cars.org/tutorial)
+          > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5)
           > - **&nbsp;Feb &nbsp;2021**: I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps
           > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
           > - **June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://paperswithcode.com/paper/one-thousand-and-one-hours-self-driving)

@@ -19,7 +19,7 @@ abstract: 'We investigate what grade of sensor data is required for training an 
 url_pdf: 'https://arxiv.org/pdf/2105.12337.pdf'
 url_code: 'https://colab.research.google.com/github/lyft/l5kit/blob/master/examples/planning/train.ipynb'
 url_dataset: ''
-url_video: 'https://www.self-driving-cars.org/papers/icra2021-lfd'
+url_video: 'https://www.youtube.com/watch?v=QzKrhGgbUew'
 tags: [featured]
 image:
   caption: ''

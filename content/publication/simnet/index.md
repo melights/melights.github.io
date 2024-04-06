@@ -19,7 +19,7 @@ abstract: "In this work, we present a simple end-to-end trainable machine learni
 url_pdf: 'https://arxiv.org/pdf/2105.12332.pdf'
 url_code: 'https://github.com/woven-planet/l5kit/blob/master/examples/simulation/simulation_test.ipynb'
 url_dataset: ''
-url_video: 'https://www.self-driving-cars.org/papers/icra2021-simnet'
+url_video: 'https://www.youtube.com/watch?v=qedl21IhWH8'
 image:
   caption: ''
   focal_point: ''
