@@ -114,6 +114,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a highly driven individual with over 10 years of research experience, deeply invested in the research, development, and deployment of cutting-edge Computer Vision (CV) and Machine Learning (ML) technologies. My work is centered around creating future disruptive applications, with key areas of focus including Surgical Robotics, Mixed Reality, and Autonomous Vehicles.
+Long Chen is a distinguished research leader, with a proven track record in developing disruptive AI technologies. He currently holds the position of Staff Scientist at Wayve, where he is at the forefront of building vision-language-action (VLA) models for the next wave of autonomous driving, such as <a href="https://github.com/wayveai/Driving-with-LLMs" target="_blank">Driving-with-LLMs</a> and <a href="https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/" target="_blank">LINGO</a>. Previously, he was a research engineer at Lyft Level 5, where he led the data-driven planning models from <a href="https://long.ooo/publication/lfd/" target="_blank">crowd-sourced data</a> for Lyft's self-driving cars. His extensive experience also includes applying AI technologies in various domains such as mixed reality, surgical robots, and healthcare.
 {style="text-align: justify;"}
