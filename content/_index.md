@@ -57,7 +57,9 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home)
+          > - **June 2024**: I'm organizing the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
+          > - **June 2024**: I'm going to present the [ICRA 2024 Paper: Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs/) in Yokohama, Japan.
+          > - **June 2023**: I organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home) in London, UK.
           > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5)
           > - **&nbsp;Feb &nbsp;2021**: I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps
           > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
@@ -82,7 +84,7 @@ sections:
           location: London, UK
           date_start: '2021-08-01'
           date_end: ''
-          description: AV2.0 - building the next generation of self-driving cars with end-to-end Machine Learning, Vision-Language-Action (VLA) models.
+          description: AV2.0 - building the next generation of self-driving cars with End-to-End Machine Learning, Vision-Language-Action (VLA) models.
         - title: Research Engineer
           company: Lyft Level 5
           company_url: ''
@@ -90,7 +92,7 @@ sections:
           location: London, UK
           date_start: '2018-05-01'
           date_end: '2021-07-31'
-          description: Autonomy 2.0 - Machine Learning control models for Lyft's self-driving vehicles
+          description: Autonomy 2.0 - data-driven planning models for Lyft's self-driving vehicles
     design:
       columns: '2'
   # - block: accomplishments

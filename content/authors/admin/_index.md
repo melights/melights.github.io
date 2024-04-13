@@ -94,7 +94,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:me@long.ooo'
+    link: 'mailto:chen@long.ooo'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=c-sthYIAAAAJ
