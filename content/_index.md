@@ -57,13 +57,16 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **June 2024**: I'm organizing the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
+          > - **&nbsp;Sep &nbsp;2024**: I'm going to present an invited talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/) in Milan, Italy.
+          > - **July 2024**: Paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
+          > - **June 2024**: Presented an invited talk at [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/) in Seattle, US.
+          > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
           > - **&nbsp;May &nbsp;2024**: Presented the [ICRA 2024 Paper: Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs/) in Yokohama, Japan.
           > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home) in London, UK.
           > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5)
-          > - **&nbsp;Feb &nbsp;2021**: I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps
+          > - **&nbsp;Feb &nbsp;2021**: I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps for autonomous driving
           > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
-          > - **June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://paperswithcode.com/paper/one-thousand-and-one-hours-self-driving)
+          > - **June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://arxiv.org/pdf/2006.14480)
 
   - block: experience
     content:
@@ -84,7 +87,7 @@ sections:
           location: London, UK
           date_start: '2021-08-01'
           date_end: ''
-          description: AV2.0 - building the next generation of self-driving cars with End-to-End Machine Learning, Vision-Language-Action (VLA) models.
+          description: AV2.0 - building the next generation of self-driving cars with End-to-End Machine Learning, Vision-Language-Action (VLA) models.<br>[CVPR 2024: End-to-End Tutorial](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5) [ICRA 2023: End-to-End Workshop](https://sites.google.com/view/icra2023av/home) 
         - title: Research Engineer
           company: Lyft Level 5
           company_url: ''
@@ -92,7 +95,7 @@ sections:
           location: London, UK
           date_start: '2018-05-01'
           date_end: '2021-07-31'
-          description: Autonomy 2.0 - data-driven planning models for Lyft's self-driving vehicles
+          description: Autonomy 2.0 - data-driven planning models for Lyft's self-driving vehicles<br>[CVPR 2021: Autonomy 2.0 Tutorial](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5) [ICRA 2021: Crowd-sourced Data-Driven Planner](https://arxiv.org/pdf/2105.12337)
     design:
       columns: '2'
   # - block: accomplishments
