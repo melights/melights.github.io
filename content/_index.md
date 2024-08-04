@@ -88,7 +88,8 @@ sections:
           date_end: ''
           description: |-
               AV2.0 - building the next generation of self-driving cars with End-to-End (E2E) Machine Learning, Vision-Language-Action (VLA) models.
-              [[CVPR 2024: End-to-End Tutorial]](https://www.youtube.com/playlist?list=PL5ksjZd5b6SJzV-jQz5sqCypT_rrorCVF) [ICRA 2023: End-to-End Workshop](https://sites.google.com/view/icra2023av/home) 
+
+              [[CVPR 2024: End-to-End Tutorial]](https://www.youtube.com/playlist?list=PL5ksjZd5b6SJzV-jQz5sqCypT_rrorCVF) [[ICRA 2023: End-to-End Workshop]](https://sites.google.com/view/icra2023av/home) 
         - title: Research Engineer
           company: Lyft Level 5
           company_url: ''
@@ -98,7 +99,8 @@ sections:
           date_end: '2021-07-31'
           description: |-
               Autonomy 2.0 - Data-Driven Planning models for Lyft's self-driving vehicles.
-              [[CVPR 2021: Autonomy 2.0 Tutorial]](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5) [ICRA 2021: Crowd-sourced Data-Driven Planner](https://arxiv.org/pdf/2105.12337)
+              
+              [[CVPR 2021: Autonomy 2.0 Tutorial]](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5) [[ICRA 2021: Crowd-sourced Data-Driven Planner]](https://arxiv.org/pdf/2105.12337)
     design:
       columns: '2'
   # - block: accomplishments
