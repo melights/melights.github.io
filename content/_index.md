@@ -57,9 +57,9 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **&nbsp;Sep &nbsp;2024**: Presenting an invited talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/) in Milan, Italy.
-          > - **July 2024**: Paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
-          > - **June 2024**: Presented an invited talk at [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/) in Seattle, US.
+          > - **&nbsp;Sep &nbsp;2024**: I was invited to give a talk at the [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/) in Milan, Italy.
+          > - **July 2024**: Our paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
+          > - **June 2024**: I was invited to give a talk at the [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/) in Seattle, US.
           > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
           > - **&nbsp;May &nbsp;2024**: Presented the [ICRA 2024 Paper: Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs/) in Yokohama, Japan.
           > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home) in London, UK.
