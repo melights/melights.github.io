@@ -63,7 +63,7 @@ sections:
           > - **July 2024**: Paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
           > - **June 2024**: Keynote talk at [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/).
           > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
-          > - **June 2024**: [CarLLaVA](https://arxiv.org/abs/2406.10165) won the 1st place of [CARLA Autonomous Driving Challenge]([https://leaderboard.carla.org/leaderboard/](https://opendrivelab.com/challenge2024/#carla))!
+          > - **June 2024**: [CarLLaVA](https://arxiv.org/abs/2406.10165) won the 1st place of [CARLA Autonomous Driving Challenge](https://opendrivelab.com/challenge2024/#carla)!
           > - **&nbsp;May &nbsp;2024**: Presented the [ICRA 2024 Paper: Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs/) in Yokohama, Japan.
           > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home) in London, UK.
           > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5)
