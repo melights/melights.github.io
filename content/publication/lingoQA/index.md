@@ -16,7 +16,7 @@ date: '2023-12-21'
 doi: ''
 publishDate: '2023-12-21'
 publication_types: ['preprint']
-publication: In *arXiv preprint arXiv:2312.14115*
+publication: In *the 18th European Conference on Computer Vision (ECCV 2024)*
 abstract: "Autonomous driving has long faced a challenge with public acceptance due to the lack of explainability in the decision-making process. Video question-answering (QA) in natural language provides the opportunity for bridging this gap. Nonetheless, evaluating the performance of Video QA models has proved particularly tough due to the absence of comprehensive benchmarks. To fill this gap, we introduce LingoQA, a benchmark specifically for autonomous driving Video QA. The LingoQA trainable metric demonstrates a 0.95 Spearman correlation coefficient with human evaluations. We introduce a Video QA dataset of central London consisting of 419k samples that we release with the paper. We establish a baseline vision-language model and run extensive ablation studies to understand its performance."
 url_pdf: 'https://arxiv.org/pdf/2312.14115.pdf'
 url_code: 'https://github.com/wayveai/LingoQA'
