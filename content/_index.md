@@ -57,10 +57,10 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/) in Milan, Italy.
+          > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/).
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Large Language and Vision Models for Autonomous Driving](https://llvm-ad.github.io/).
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Foundation Models for Autonomous Driving](https://www.mrt.kit.edu/fmad/).
-          > - **July 2024**: [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
+          > - **July 2024**: Paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
           > - **June 2024**: Keynote talk at [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/).
           > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
           > - **June 2024**: [CarLLaVA](https://arxiv.org/abs/2406.10165) won the 1st place of [CARLA Autonomous Driving Challenge]([https://leaderboard.carla.org/leaderboard/](https://opendrivelab.com/challenge2024/#carla))!
