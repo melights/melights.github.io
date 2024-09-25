@@ -57,14 +57,17 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **&nbsp;Sep &nbsp;2024**: I was invited to give a talk at the [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/) in Milan, Italy.
-          > - **July 2024**: Our paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
-          > - **June 2024**: I was invited to give a talk at the [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/) in Seattle, US.
+          > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/) in Milan, Italy.
+          > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Large Language and Vision Models for Autonomous Driving](https://llvm-ad.github.io/).
+          > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Foundation Models for Autonomous Driving](https://www.mrt.kit.edu/fmad/).
+          > - **July 2024**: [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
+          > - **June 2024**: Keynote talk at [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/).
           > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
+          > - **June 2024**: [CarLLaVA](https://arxiv.org/abs/2406.10165) won the 1st place of [CARLA Autonomous Driving Challenge]([https://leaderboard.carla.org/leaderboard/](https://opendrivelab.com/challenge2024/#carla))!
           > - **&nbsp;May &nbsp;2024**: Presented the [ICRA 2024 Paper: Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs/) in Yokohama, Japan.
           > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home) in London, UK.
           > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5)
-          > - **&nbsp;Feb &nbsp;2021**: I was granted a US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps for autonomous driving
+          > - **&nbsp;Feb &nbsp;2021**: Granted US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps for autonomous driving
           > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
           > - **June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://arxiv.org/pdf/2006.14480)
   - block: experience
