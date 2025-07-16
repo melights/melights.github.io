@@ -57,7 +57,7 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **June 2025**: Paper [SimLingo](https://www.katrinrenz.de/simlingo/) was accepted to CVPR 2025!
+          > - **June 2025**: Paper [SimLingo：Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://www.katrinrenz.de/simlingo/) was accepted to CVPR 2025!
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/).
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Large Language and Vision Models for Autonomous Driving](https://llvm-ad.github.io/).
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Foundation Models for Autonomous Driving](https://www.mrt.kit.edu/fmad/).

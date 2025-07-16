@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Director & Principal Scientist
+role: Senior Research Director &<br>Principal Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -115,6 +115,8 @@ social:
 highlight_name: true
 ---
 I am a Senior Research Director and Principal Scientist at Xiaomi, where my mission is bringing Artificial Intelligence to the physical world. I lead research in Embodied Intelligence, with a focus on pioneering the next generation of Autonomous Driving and Robotics. My work is at the intersection of Computer Vision, end-to-end learning systems, and Vision-Language-Action (VLA) models, aimed at building intelligent agents that can perceive, reason, and act in complex, real-world environments.
+
 Previously, I was a Staff Scientist at Wayve, where I spearheaded the development of Wayve’s VLA models for the next generation of End-to-End Autonomous Driving. Before that, as a Research Engineer at Lyft Level 5, I led the <a href="https://long.ooo/publication/lfd/" target="_blank">fleet learning</a> initiative to pretrain the ML planner for Lyft’s self-driving cars using large-scale, crowd-sourced fleet data.
+
 My work <b><i><a href="https://github.com/wayveai/Driving-with-LLMs" target="_blank">Driving-with-LLMs</a></i></b> [ICRA 2024, over 250 citations and 500 GitHub stars] was one of the first works on exploring Large Language Models (LLMs) for Autonomous Driving; <b><i><a href="https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/" target="_blank">LINGO</a></i></b> [ECCV 2024] is the first VLA end-to-end driving model tested on public roads in London; and <b><i><a href="https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/" target="_blank">SimLingo</a></i></b> [CVPR 2025] won 1st place at the CVPR 2024 CARLA Autonomous Driving Challenge. My work has been widely featured in news media, such as <i><a href="https://fortune.com/europe/2023/09/15/wayve-microsoft-backed-self-driving-car-start-up-alex-kendall-trust-ai/" target="_blank">Fortune</a></i>, <i><a href="https://www.ft.com/content/a5a5f2ea-e95f-4358-9f80-d10c5ed90453" target="_blank">Financial Times</a></i>, <i><a href="https://www.technologyreview.com/2023/09/14/1079458/this-driverless-car-company-is-using-chatbots-to-make-its-vehicles-smarter/" target="_blank">MIT Technology Review</a></i>, <i><a href="https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00151/" target="_blank">Nikkei Robotics</a></i>, and <i><a href="https://36kr.com/p/2434165162168708" target="_blank">36kr</a></i>.
 {style="text-align: justify;"}
