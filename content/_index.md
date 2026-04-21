@@ -57,19 +57,28 @@ sections:
     content:
       title: Recent News
       text: |-
-          > - **June 2025**: Paper [SimLingo：Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://www.katrinrenz.de/simlingo/) was accepted to CVPR 2025!
+          > - **&nbsp;Mar &nbsp;2026**: Released the [Xiaomi XLA Foundation Model](https://youtu.be/913q0onD14c?t=6951) at Xiaomi Product Launch Event.
+          > - **&nbsp;Feb &nbsp;2026**: 6 papers accepted to CVPR 2026: [VGGDrive](https://arxiv.org/pdf/2602.20794), [DVGT](https://arxiv.org/pdf/2512.16919), [SimScale](https://arxiv.org/pdf/2511.23369), [DGGT](https://arxiv.org/pdf/2512.03004), [SkyVLM](https://arxiv.org/pdf/2511.13269), [MeanFuser](https://arxiv.org/pdf/2602.20060)!
+          > - **&nbsp;Nov &nbsp;2025**: Released [MiMo-Embodied](https://arxiv.org/pdf/2511.16518), the world's <span style="font-weight:bold;background:linear-gradient(135deg,#FE667B 0%,#ff8599 50%,#a29bfe 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">1st</span> Embodied Foundation Model that achieved SoTA in both Autonomous Driving and Embodied Robotics.
+          > - **&nbsp;Oct &nbsp;2025**: Won the <span style="font-weight:bold;background:linear-gradient(135deg,#FE667B 0%,#ff8599 50%,#a29bfe 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">1st</span> place in both Track 2 and Track 4 of the [IROS RoboSense Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7390466459354910720/), and received the Innovative Solution Award for Track 2.
+          > - **&nbsp;Oct &nbsp;2025**: <span style="font-weight:bold;background:linear-gradient(135deg,#FE667B 0%,#ff8599 50%,#a29bfe 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">Best Paper Award</span> at the RoDGE Workshop for the paper [RoboAfford++: A Dataset for Robotics Affordance Learning](https://arxiv.org/pdf/2511.12436).
+          > - **&nbsp;Oct &nbsp;2025**: Co-organized the [ICCV 2025 Workshop: Advancing Spatial Understanding for Embodied Intelligence](https://opendrivelab.com/iccv2025/workshop/).
+          > - **&nbsp;Sep &nbsp;2025**: Thrilled and honored to be named <span style="font-weight:bold;background:linear-gradient(135deg,#FE667B 0%,#ff8599 50%,#a29bfe 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">MIT TR35</span> ([MIT Technology Review 35 Innovators Under 35 Asia Pacific](https://www.innovatorsunder35.com/the-list/long-chen/)) for my innovation on VLA.
+          > - **&nbsp;Sep &nbsp;2025**: Paper [ReSim: Reliable World Simulation for Autonomous Driving](https://arxiv.org/pdf/2506.09981) was accepted to NeurIPS 2025!
+          > - **June 2025**: Paper [SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://www.katrinrenz.de/simlingo/) was accepted to CVPR 2025!
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [ECCV 2024 Workshop: Autonomous Vehicles meet Multimodal Foundation Models](https://mllmav.github.io/).
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Large Language and Vision Models for Autonomous Driving](https://llvm-ad.github.io/).
           > - **&nbsp;Sep &nbsp;2024**: Keynote talk at [IEEE ITSC 2024 Workshop: Foundation Models for Autonomous Driving](https://www.mrt.kit.edu/fmad/).
           > - **July 2024**: Paper [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115) was accepted to ECCV 2024!
           > - **June 2024**: Keynote talk at [CVPR 2024 Workshop: Vision and Language for Autonomous Driving and Robotics](https://vision-language-adr.github.io/).
-          > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/) in Seattle, US.
-          > - **June 2024**: [CarLLaVA](https://arxiv.org/abs/2406.10165) won the 1st place of [CARLA Autonomous Driving Challenge](https://opendrivelab.com/challenge2024/#carla)!
+          > - **June 2024**: Organized the [CVPR 2024 Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://www.youtube.com/playlist?list=PL5ksjZd5b6SJzV-jQz5sqCypT_rrorCVF) in Seattle, US.
+          > - **June 2024**: [CarLLaVA](https://arxiv.org/abs/2406.10165) won the <span style="font-weight:bold;background:linear-gradient(135deg,#FE667B 0%,#ff8599 50%,#a29bfe 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">1st</span> place of [CARLA Autonomous Driving Challenge](https://opendrivelab.com/challenge2024/#carla)!
+          > - **April 2024**: Released [LINGO](https://wayve.ai/science/lingo/) and [LINGO-2](https://wayve.ai/thinking/lingo-2-driving-with-language/), the world's <span style="font-weight:bold;background:linear-gradient(135deg,#FE667B 0%,#ff8599 50%,#a29bfe 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">1st</span> driving VLA model tested on public roads.
           > - **&nbsp;May &nbsp;2024**: Presented the [ICRA 2024 Paper: Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs/) in Yokohama, Japan.
           > - **June 2023**: Organized the [ICRA 2023 Workshop on Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home) in London, UK.
           > - **June 2021**: Co-organized the [CVPR 2021 Tutorial: Frontiers in Data-driven Autonomous Driving](https://www.youtube.com/playlist?list=PLuppoiwLGqMRCOhEGCDHBfezokZkog-N5)
           > - **&nbsp;Feb &nbsp;2021**: Granted US patent [Guided Batching](https://patents.google.com/patent/US10914605B1/) - a method for building city-scale HD maps for autonomous driving
-          > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), got accepted by ICRA 2021
+          > - **June 2021**: Two papers, [Data-driven Planner](https://arxiv.org/abs/2105.12337) and [SimNet](https://arxiv.org/abs/2105.12332), were accepted to ICRA 2021
           > - **June 2020**: We released the [Lyft Level 5 Prediction Dataset](https://arxiv.org/pdf/2006.14480)
   - block: experience
     content:
